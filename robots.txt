@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baingeefub.omrilotan.com/sitemap.xml
